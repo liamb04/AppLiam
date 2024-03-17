@@ -1,3 +1,11 @@
+
 <resources>
-    <string name="app_name">My Application</string>
+<string name="app_name">Liams App</string>
+    <string name="title_home">Welcome! Please input your weight in kg and height in meters.</string>
+    <string name="label_weight">Weight (kg)</string>
+    <string name="label_height">Height (m)</string>
+    <string name="button_home">To your calculation</string>
+    <string name="Result">Your BMI is: %.2f</string>
+    <string name="Button_main">Back to input</string>
+
 </resources>
